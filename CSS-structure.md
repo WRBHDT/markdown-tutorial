@@ -12,7 +12,7 @@ First, we want to create the CSS Style Sheet. Enter this code within your HTML c
 Next, we get to the actual styling element. Under this style sheet, utilize the code below, but feel free to experiment with each design element/values when creating your own web page
 
 
-# This sets the default font for the entire webpage)
+# This sets the default font for the entire webpage
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
