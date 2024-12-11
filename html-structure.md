@@ -15,10 +15,10 @@ Here, we will create the HTML structure of a web page. This includes coding the 
    <head>
        <meta charset="UTF-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <title>My Simple Web Page</title>
+       <title>My Web Page</title>
    </head>
    <body>
        <h1>Welcome to My Web Page</h1>
-       <p>This is a simple web page built with HTML and CSS.</p>
+       <p>This is a basic web page built with my HTML and CSS coding skills.</p>
    </body>
    </html>
