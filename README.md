@@ -9,6 +9,6 @@ This tutorial walks you through the steps of building a web page using basic HTM
 This tutorial is aimed at beginners who have little experience with HTML and CSS. It is intended for people aged 13 and up who are interested in learning web development.
 
 # Table of Contents
-1. [Introduction to HTML and CSS](html-structure.md)
+1. [Introduction to HTML and CSS](Introduction.md)
 2. [Building the HTML Structure](html-structure.md)
 3. [Styling the Web Page with CSS](CSS-structure.md)
