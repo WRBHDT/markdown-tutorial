@@ -1,5 +1,15 @@
-**In this file, we'll go over the basic CSS code for the web-page we are creating, look below and feel free to experiemnt with each design element when creating your own web page
 
+# CSS Structure
+
+In this file, we'll go over the basic CSS code for the web-page we are creating, look below and feel free to experiemnt with each design element when creating your own web page
+
+First, we want to create the CSS Style Sheet. Enter this code within your HTML code:
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+Next, we get to the actual styling element. Under this style sheet, enter the code below, but feel free to experiment with each design element/values when creating your own web page
 
 
 /* This sets the default font for the entire webpage */
