@@ -11,4 +11,4 @@ This tutorial is aimed at beginners who have little experience with HTML and CSS
 # Table of Contents
 1. [Introduction to HTML and CSS](introduction.md)
 2. [Building the HTML Structure](html-structure.md)
-3. [Styling the Web Page with CSS](css-styling.md)
+3. [Styling the Web Page with CSS](CSS-structure.md)
